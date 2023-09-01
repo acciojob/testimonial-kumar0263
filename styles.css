@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+.Container{
+	background:#f5f5f5;
+	padding:50px;
+}
+.Testimonial{
+	border:2px solid white;
+	background:white;
+	padding:20px;
+	 
+}
+author.b{
+	float:right;
+	font-style:italic;
+}
+.Testimonial1{
+	border:2px solid white;
+	background:white;
+	padding:20px;
+}
+author.a{
+	font-style:italic;
+	  	 float:right;
+	text-align:right;
+}
